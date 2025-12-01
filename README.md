@@ -1,5 +1,5 @@
 # Serotonin
-Serotonin is a semi-tethered/semi-untethered jailbreak for iOS 17-18.7.2 targetting A5-A18 utilizing the Safari WebKit Leftover Bugs.
+Serotonin is a semi-tethered/semi-untethered jailbreak for iOS 17-18.7.2 targetting A4-A18 utilizing the Safari WebKit Leftover Bugs.
 
 || NOTE: Serotonin is no longer based off of Dopamine. ||
 
